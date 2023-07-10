@@ -27,7 +27,7 @@
  
  li{
      color: aliceblue;
-     font-size: 20px;
+     font-size: 1.5rem;
      text-decoration: underline;
      font-family: 'Inter', sans-serif;
      display: flex;
@@ -52,13 +52,12 @@
     color: aliceblue;
      font-family: 'Inter', sans-serif;
      text-decoration:none;
-     font-size: 17px;
+     font-size: 2rem;
  }
  
  
  h2{
-     color: aliceblue;
-     font-size: 60px;
+     font-size: 4rem;
      text-decoration: underline;
      font-family: 'Bebas Neue', sans-serif;
  }
@@ -77,14 +76,7 @@
  background-color: transparent;
  }
  
- 
- .centro{
-     width: 720px;
-    text-align: right;
-     margin-left: 500px;
- }
- 
- 
+
  
  p{
      color: aliceblue;
@@ -110,3 +102,7 @@
 }
 
 
+.historia{
+    font-size: 2.5rem;
+    color:white;
+}
